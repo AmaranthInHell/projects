@@ -1,0 +1,1 @@
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe.config
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.pdb
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.csprojResolveAssemblyReference.cache
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.exe
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.pdb

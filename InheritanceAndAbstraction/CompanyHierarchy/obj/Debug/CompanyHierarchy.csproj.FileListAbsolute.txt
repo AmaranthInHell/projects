@@ -1,0 +1,6 @@
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\Vili.vili2-PC\Desktop\Csharp\SoftUni\SoftUniFundamentals\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
