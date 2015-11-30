@@ -1,0 +1,16 @@
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.exe.config
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.exe
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.pdb
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EntityFramework.dll
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EntityFramework.xml
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.csprojResolveAssemblyReference.cache
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD___KrasenIliev___57.FormAddEditUser.resources
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD___KrasenIliev___57.FormUsers.resources
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD___KrasenIliev___57.Properties.Resources.resources
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.csproj.GenerateResource.Cache
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.exe
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD - KrasenIliev - 57.pdb
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD___KrasenIliev___57.FormCalls.resources
+C:\Users\fmi\Desktop\EventDrivenProgrammingSTD - KrasenIliev - 57\EventDrivenProgrammingSTD - KrasenIliev - 57\obj\Debug\EventDrivenProgrammingSTD___KrasenIliev___57.FormAddEditCall.resources
