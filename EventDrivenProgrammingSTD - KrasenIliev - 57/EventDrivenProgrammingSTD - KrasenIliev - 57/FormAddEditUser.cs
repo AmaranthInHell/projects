@@ -37,5 +37,10 @@ namespace EventDrivenProgrammingSTD___KrasenIliev___57
             user.FirstName = textBoxFirstName.Text;
             user.LastName = textBoxLastName.Text;
         }
+
+        private void buttonSave_MouseHover(object sender, EventArgs e)
+        {
+            textBoxFirstName.Text = "pesho";
+        }
     }
 }
